@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.17.0" title="Shotcut version 19.06.15" producer="main_bin">
+  <profile description="automatic" width="1092" height="614" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="1092" display_aspect_den="614" frame_rate_num="30" frame_rate_den="1" colorspace="601"/>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:01:41.933">
+    <property name="length">3059</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:01:41.933"/>
+  </playlist>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer12" title="Anonymous Submission" in="00:00:00.000" out="00:02:26.833">
+    <property name="length">00:02:26:26</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Videos/2019-06-17 17-14-06.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-17T20:16:34</property>
+    <property name="shotcut:hash">e892007307460d4f6a76c8310c646ba4</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">2019-06-17 17-14-06.mp4</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer0" in="00:00:05.433" out="00:00:07.467"/>
+    <entry producer="producer1" in="00:00:12.900" out="00:00:15.233"/>
+    <entry producer="producer2" in="00:00:17.633" out="00:00:31.800"/>
+    <entry producer="producer3" in="00:00:34.067" out="00:00:46.567"/>
+    <entry producer="producer4" in="00:00:49.200" out="00:01:08.267"/>
+    <entry producer="producer5" in="00:01:13.067" out="00:01:19.733"/>
+    <entry producer="producer6" in="00:01:21.700" out="00:01:25.700"/>
+    <entry producer="producer7" in="00:01:27.767" out="00:01:40.233"/>
+    <entry producer="producer8" in="00:01:41.833" out="00:01:42.467"/>
+    <entry producer="producer9" in="00:01:44.867" out="00:01:46.233"/>
+    <entry producer="producer10" in="00:01:47.900" out="00:01:52.000"/>
+    <entry producer="producer11" in="00:01:57.700" out="00:02:16.467"/>
+    <entry producer="producer12" in="00:02:20.467" out="00:02:23.900"/>
+  </playlist>
+  <producer id="producer13" title="Anonymous Submission" in="00:00:00.000" out="00:02:59.000">
+    <property name="length">00:02:59:01</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/JONATAS/Downloads/Base De Rap  Late Night  Lo-fi Hip Hop Beat Instrumental  Prod Slowet.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-06-17T20:49:31</property>
+    <property name="shotcut:hash">a35cae66448aa389b17dff05a29f3765</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Base De Rap  Late Night  Lo-fi Hip Hop Beat Instrumental  Prod Slowet.mp3</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer13" in="00:00:00.000" out="00:01:41.833"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 19.06.15" global_feed="1" in="00:00:00.000" out="00:01:41.933">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.675067</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
